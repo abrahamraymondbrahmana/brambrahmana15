@@ -1,6 +1,18 @@
-# brambrahmana15
-repository untuk programer
--belajar HTML
--belajar PHP
--belajar JAVASCRIPT
--belajar CSS
+<?php
+
+
+$nilai = 'B';
+
+if ($nilai =='A') {
+	
+	echo "nilai anda sangat memuaskan";
+}
+
+elseif ($nilai=='B') {
+	echo "nilai anda memuaskan";
+}
+elseif ($nilai== 'C') {
+	echo "nilai anda cukup";
+}
+
+?>
