@@ -12,7 +12,7 @@ elseif ($nilai=='B') {
 	echo "nilai anda memuaskan";
 }
 elseif ($nilai== 'C') {
-	echo "nilai anda cukup";
+	echo "nilai anda bagus";
 }
 
 ?>
